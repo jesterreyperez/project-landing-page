@@ -9,13 +9,17 @@ footer {
   background-color: #1f2937;
 }
 
+#hero {
+  background-color: #1f2937;
+}
+
 #hero h1 {
   font-size: 48px;
   color: #f9faf8;
   font-weight: 900;
 }
 
-#hero p {
+.header .nav-link {
   font-size: 18px;
   color: #e5e7eb;
 }
@@ -27,5 +31,11 @@ footer {
 
 .btn,
 h2 {
-  color: #3882f6;
+  background-color: #3882f6;
+}
+
+#information h1 {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
 }
