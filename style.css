@@ -60,3 +60,25 @@ h3 {
   font-weight: 100;
   font-style: normal;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+#nav-bar ul {
+  display: flex;
+  align-items: row;
+  list-style: none;
+  gap: 20px;
+}
+
+.column-40 #description {
+  display: flex;
+}
+
+.column-60 .img-div {
+  display: flex;
+  justify-content: flex-end;
+}
