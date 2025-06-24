@@ -40,28 +40,23 @@ body {
 .logo {
   font-size: 24px;
 }
+/* Hero */
+#hero {
+  background-color: #1f2937;
+  padding: 80px 100px;
+}
 
-.logo {
-  font-size: 24px;
+#hero .grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+}
+
+#hero h1 {
+  font-size: 40px;
   color: #f9faf8;
-}
-
-.btn,
-h2 {
-  background-color: #3882f6;
-}
-
-#information h1 {
-  font-size: 36px;
-  color: #1f2937;
-  font-weight: 900;
-}
-
-#quote {
-  background-color: #e5e7eb;
-  font-size: 36px;
-  font-style: italic;
-  font-weight: 100;
+  font-weight: 800;
 }
 
 h3 {
