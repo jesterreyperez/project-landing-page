@@ -31,10 +31,10 @@ body {
   text-decoration: none;
 }
 
-#hero h1 {
-  font-size: 48px;
-  color: #f9faf8;
-  font-weight: 900;
+#nav-bar ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
 }
 
 .header .nav-link {
