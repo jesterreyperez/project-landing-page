@@ -1,5 +1,7 @@
+/* Import Google Font */
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
+/* Reset default spacing and box sizing */
 * {
   margin: 0;
   padding: 0;
@@ -10,10 +12,19 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+/* Header */
+.header {
+  background-color: #1f2937;
+  color: #f9faf8;
+  padding: 20px 100px;
+}
+
 header,
 footer {
   background-color: #1f2937;
   color: #f9faf8;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 #hero {
