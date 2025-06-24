@@ -25,8 +25,10 @@ body {
   align-items: center;
 }
 
-#hero {
-  background-color: #1f2937;
+.nav-link {
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration: none;
 }
 
 #hero h1 {
