@@ -37,9 +37,8 @@ body {
   list-style: none;
 }
 
-.header .nav-link {
-  font-size: 18px;
-  color: #e5e7eb;
+.logo {
+  font-size: 24px;
 }
 
 .logo {
