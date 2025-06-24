@@ -54,22 +54,23 @@ body {
 }
 
 #hero h1 {
-  font-size: 40px;
+  font-size: 48px;
   color: #f9faf8;
-  font-weight: 800;
+  font-weight: 900;
 }
 
-h3 {
-  background-color: #e5e7eb;
-  font-size: 30px;
-  font-weight: 100;
-  font-style: normal;
+#description {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin: 10px 0 20px;
 }
 
-.header {
+#hero-img {
   display: flex;
-  justify-content: space-between;
-  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 300px;
 }
 
 #nav-bar ul {
