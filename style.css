@@ -140,3 +140,25 @@ body {
 #sign-up {
   padding: 60px 100px;
 }
+
+.cta-box {
+  background-color: #3882f6;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 60px;
+  border-radius: 10px;
+}
+
+.cta-btn {
+  border: 2px solid white;
+}
+
+/* Footer */
+.footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  text-align: center;
+  padding: 20px;
+}
